@@ -1,0 +1,15 @@
+C:\Users\444\Desktop\учеба\Знакомство с языками программирования (лекции)\Знакомство с языками программирования лекця 2\metod\metod1\bin\Debug\net6.0\metod1.exe
+C:\Users\444\Desktop\учеба\Знакомство с языками программирования (лекции)\Знакомство с языками программирования лекця 2\metod\metod1\bin\Debug\net6.0\metod1.deps.json
+C:\Users\444\Desktop\учеба\Знакомство с языками программирования (лекции)\Знакомство с языками программирования лекця 2\metod\metod1\bin\Debug\net6.0\metod1.runtimeconfig.json
+C:\Users\444\Desktop\учеба\Знакомство с языками программирования (лекции)\Знакомство с языками программирования лекця 2\metod\metod1\bin\Debug\net6.0\metod1.dll
+C:\Users\444\Desktop\учеба\Знакомство с языками программирования (лекции)\Знакомство с языками программирования лекця 2\metod\metod1\bin\Debug\net6.0\metod1.pdb
+C:\Users\444\Desktop\учеба\Знакомство с языками программирования (лекции)\Знакомство с языками программирования лекця 2\metod\metod1\obj\Debug\net6.0\metod1.csproj.AssemblyReference.cache
+C:\Users\444\Desktop\учеба\Знакомство с языками программирования (лекции)\Знакомство с языками программирования лекця 2\metod\metod1\obj\Debug\net6.0\metod1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\444\Desktop\учеба\Знакомство с языками программирования (лекции)\Знакомство с языками программирования лекця 2\metod\metod1\obj\Debug\net6.0\metod1.AssemblyInfoInputs.cache
+C:\Users\444\Desktop\учеба\Знакомство с языками программирования (лекции)\Знакомство с языками программирования лекця 2\metod\metod1\obj\Debug\net6.0\metod1.AssemblyInfo.cs
+C:\Users\444\Desktop\учеба\Знакомство с языками программирования (лекции)\Знакомство с языками программирования лекця 2\metod\metod1\obj\Debug\net6.0\metod1.csproj.CoreCompileInputs.cache
+C:\Users\444\Desktop\учеба\Знакомство с языками программирования (лекции)\Знакомство с языками программирования лекця 2\metod\metod1\obj\Debug\net6.0\metod1.dll
+C:\Users\444\Desktop\учеба\Знакомство с языками программирования (лекции)\Знакомство с языками программирования лекця 2\metod\metod1\obj\Debug\net6.0\refint\metod1.dll
+C:\Users\444\Desktop\учеба\Знакомство с языками программирования (лекции)\Знакомство с языками программирования лекця 2\metod\metod1\obj\Debug\net6.0\metod1.pdb
+C:\Users\444\Desktop\учеба\Знакомство с языками программирования (лекции)\Знакомство с языками программирования лекця 2\metod\metod1\obj\Debug\net6.0\metod1.genruntimeconfig.cache
+C:\Users\444\Desktop\учеба\Знакомство с языками программирования (лекции)\Знакомство с языками программирования лекця 2\metod\metod1\obj\Debug\net6.0\ref\metod1.dll
