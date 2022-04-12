@@ -1,6 +1,10 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿// лекция 2, Нахождение максимума из 9-ти переменных
+
+
+
  
+
+
 
 
  
